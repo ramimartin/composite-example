@@ -1,9 +1,8 @@
-package com.despegar.composite.model;
+package com.ramimartin.composite.model;
 
 
 import java.util.Iterator;
 import java.util.List;
-import java.util.Map;
 
 public class ArrayNode extends Node{
 

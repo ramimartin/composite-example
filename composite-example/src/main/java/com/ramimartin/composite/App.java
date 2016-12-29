@@ -1,6 +1,6 @@
-package com.despegar.composite;
+package com.ramimartin.composite;
 
-import com.despegar.composite.model.*;
+import com.ramimartin.composite.model.*;
 
 import java.util.Arrays;
 import java.util.HashMap;

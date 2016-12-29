@@ -2,31 +2,18 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
-  <parent>
-    <groupId>com.ramimartin.patterns</groupId>
-    <artifactId>examples</artifactId>
-    <version>1.0-SNAPSHOT</version>
-  </parent>
-
   <groupId>com.ramimartin.patterns</groupId>
-  <artifactId>template-method</artifactId>
+  <artifactId>examples</artifactId>
   <version>1.0-SNAPSHOT</version>
-  <packaging>jar</packaging>
-
-  <name>template-method</name>
-  <url>http://maven.apache.org</url>
+  <packaging>pom</packaging>
+  <modules>
+    <module>composite-example</module>
+    <module>template-method-example</module>
+  </modules>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
-
-  <dependencies>
-    <dependency>
-      <groupId>org.apache.commons</groupId>
-      <artifactId>commons-lang3</artifactId>
-      <version>3.4</version>
-    </dependency>
-  </dependencies>
 
     <build>
       <plugins>

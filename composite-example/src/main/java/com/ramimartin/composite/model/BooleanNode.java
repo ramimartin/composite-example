@@ -1,4 +1,4 @@
-package com.despegar.composite.model;
+package com.ramimartin.composite.model;
 
 public class BooleanNode extends Node {
 

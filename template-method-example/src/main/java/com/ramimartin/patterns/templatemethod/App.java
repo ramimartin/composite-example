@@ -1,8 +1,8 @@
-package com.despegar.patterns.templatemethod;
+package com.ramimartin.patterns.templatemethod;
 
 
-import com.despegar.patterns.templatemethod.algorithms.BubbleSortAndSquarePrintingAlgorithm;
-import com.despegar.patterns.templatemethod.algorithms.QuickSortAndBracketsPrintingAlgorithm;
+import com.ramimartin.patterns.templatemethod.algorithms.BubbleSortAndSquarePrintingAlgorithm;
+import com.ramimartin.patterns.templatemethod.algorithms.QuickSortAndBracketsPrintingAlgorithm;
 
 public class App {
 

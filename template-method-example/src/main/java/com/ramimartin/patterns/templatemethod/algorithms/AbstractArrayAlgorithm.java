@@ -1,4 +1,4 @@
-package com.despegar.patterns.templatemethod.algorithms;
+package com.ramimartin.patterns.templatemethod.algorithms;
 
 
 import org.apache.commons.lang3.RandomUtils;

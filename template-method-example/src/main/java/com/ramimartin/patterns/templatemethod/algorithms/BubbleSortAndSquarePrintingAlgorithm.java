@@ -1,4 +1,4 @@
-package com.despegar.patterns.templatemethod.algorithms;
+package com.ramimartin.patterns.templatemethod.algorithms;
 
 
 final public class BubbleSortAndSquarePrintingAlgorithm extends AbstractArrayAlgorithm {
