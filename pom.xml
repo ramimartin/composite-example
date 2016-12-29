@@ -9,6 +9,8 @@
   <modules>
     <module>composite-example</module>
     <module>template-method-example</module>
+    <module>utils</module>
+    <module>strategy-example</module>
   </modules>
 
   <properties>

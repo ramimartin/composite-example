@@ -8,11 +8,11 @@
     <version>1.0-SNAPSHOT</version>
   </parent>
 
-  <artifactId>template-method</artifactId>
+  <artifactId>utils</artifactId>
   <version>1.0-SNAPSHOT</version>
   <packaging>jar</packaging>
 
-  <name>template-method</name>
+  <name>utils</name>
   <url>http://maven.apache.org</url>
 
   <properties>
@@ -21,9 +21,9 @@
 
   <dependencies>
     <dependency>
-      <groupId>com.ramimartin.patterns</groupId>
-      <artifactId>utils</artifactId>
-      <version>${project.version}</version>
+      <groupId>org.apache.commons</groupId>
+      <artifactId>commons-lang3</artifactId>
+      <version>3.4</version>
     </dependency>
   </dependencies>
 
