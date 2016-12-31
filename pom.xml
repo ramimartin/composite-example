@@ -9,9 +9,11 @@
   <modules>
     <module>composite-example</module>
     <module>template-method-example</module>
-    <module>utils</module>
     <module>strategy-example</module>
     <module>builder-example</module>
+    <module>observer-example</module>
+
+    <module>utils</module>
   </modules>
 
   <properties>
