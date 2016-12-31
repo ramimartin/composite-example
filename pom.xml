@@ -11,6 +11,7 @@
     <module>template-method-example</module>
     <module>utils</module>
     <module>strategy-example</module>
+    <module>builder-example</module>
   </modules>
 
   <properties>
