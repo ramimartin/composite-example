@@ -13,7 +13,7 @@
     <module>builder-example</module>
     <module>observer-example</module>
     <module>adapter-example</module>
-
+    <module>state-example</module>
     <module>utils</module>
   </modules>
 
