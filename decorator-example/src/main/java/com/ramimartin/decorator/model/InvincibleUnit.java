@@ -21,7 +21,7 @@ public class InvincibleUnit implements Unit {
 
     @Override
     public Integer getDefensePoints() {
-        return decoratedUnit.getDefensePoints() + 999;
+        return Integer.MAX_VALUE;
     }
 
     @Override
