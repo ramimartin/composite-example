@@ -1,6 +1,6 @@
 package com.ramimartin.decorator.model;
 
-public class HorseRiderUnit implements Unit {
+public final class HorseRiderUnit implements Unit {
 
     private Unit decoratedUnit;
 

@@ -1,6 +1,6 @@
 package com.ramimartin.decorator.model;
 
-public class InvincibleUnit implements Unit {
+public final class InvincibleUnit implements Unit {
 
     private Unit decoratedUnit;
 

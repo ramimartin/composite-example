@@ -2,7 +2,7 @@ package com.ramimartin.decorator.model;
 
 import static java.lang.Math.*;
 
-public class BaseUnit implements Unit {
+public final class BaseUnit implements Unit {
 
 
     private String name;

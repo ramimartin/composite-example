@@ -1,6 +1,6 @@
 package com.ramimartin.decorator.model;
 
-public class BazookaUnit implements Unit {
+public final class BazookaUnit implements Unit {
 
     private Unit decoratedUnit;
 
